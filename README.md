@@ -15,7 +15,7 @@
 
 ## 🛠️ Tecnologias e Ferramentas
 
-![My Skills](https://skillicons.dev/icons?i=C,C#,git,mySql&theme=dark)
+![My Skills](https://skillicons.dev/icons?i=c,c#,git,mysql&theme=dark)
 
 
 ## 🤝 Conecte-se Comigo
